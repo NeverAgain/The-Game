@@ -36,6 +36,7 @@ public:
 	 */
 	void init()
 	{
+		//heres a change
 		// Set the GL viewport to be the entire MoSync screen.
 		setViewport(
 			EXTENT_X(maGetScrSize()),
